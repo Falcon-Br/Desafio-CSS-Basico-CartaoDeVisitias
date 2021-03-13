@@ -24,7 +24,8 @@ a {
     background-image: url('../imagens/background.png');
     width: 700px;
     height: 340px;
-    margin: 13%;
+    margin: auto;
+    margin-top: 13%;
     padding: 15px;
     box-sizing: border-box;
 }
